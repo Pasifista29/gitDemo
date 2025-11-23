@@ -1,0 +1,25 @@
+Git >> Git is required for version control. Version control is a system that records changes to a 
+file or set of files over time so that you can recall specific versions later
+Git is distributed (on Cloud)
+>> Collaboration.
+>> Tracking changes
+>> Recovery.
+
+
+>> For 1st time need to configure github in your system.
+git config --global user.name "Pasifista29"
+
+>> Configuring email ID
+git config --global user.email "sakpalkshitij@gmail.com"
+
+# Mandatory Commands :
+Initializing git
+>> git init
+
+Remote connection for our application
+git remote add origin https://github.com/Pasifista29/gitDemo.git
+
+
+
+Pull Request in vs code terminal.
+git pull origin main

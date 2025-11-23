@@ -1,0 +1,85 @@
+MEAN
+    >> M: MongoDB (NoSQL Database)
+    >> E: ExpressJs (Backend Framework)
+    >> A: Angular (Frontend Framework)
+    >> N: NodeJs (JavaScript Runtime Environment)
+
+Three Building Blocks : This 3 pillars are always essential no matter what stack you use.
+    >> HTML [ With the help of HTML & CSS, a static Application can be created. ]
+    >> CSS
+    >> JS
+
+
+In the Full-Stack World, there are many Stacks available :
+MEAN, MERN, Java Full Stack.
+
+Web Dev
+    >> Buidling/Developers Team
+    Frontend Developers
+    Backend Developers
+    Full Stack Developers
+
+    >> Testing Team [ Manual Testers/Automated Testers ]
+    Their job: find and fix bugs.
+
+    >> Hosting Team [ DevOps Team ] 
+    Only after the Application is tested.Deploys the application to servers/cloud after testing
+    (Using AWS, Azure, Docker, Kubernetes, etc.)
+
+    >> Maintenance Team/Support Team
+    Handles updates, bug fixes, and user issues after release
+
+SDLC ( Software Development LifeCycele ) 
+    >> To work with above 4 Teams together.
+    >> SDLC Models.
+        >> Waterfall Model.
+        >> Agile Model.
+        >> Spiral Model.
+        >> Iterative Model.
+        >> Incremental Model.
+        >> V-Shape Model.
+        >> RAD (Rapid Application Development) Model.
+
+URL ( Uniform Resource Locator )
+    https://www.google.com/
+    https://education.rohanAcademy.edu/FullStack
+        >> https: Protocol
+        >> rohanAcademy: Server/Domain Name
+        >> education: Sub-Domain
+        >> .edu: TLD ( Top Level Domain )
+        >> FullStack: Path/Location
+
+
+A] https: Protocol
+    >> set of rules/instrutions
+        http: Used to transfer web pages on the internet. Not secure; data is sent in plain text.
+        https: Secure version of HTTP. Uses encryption (SSL/TLS) to protect data during transfer.
+        tcp: Reliable, connection-oriented protocol. Ensures all data arrives correctly and in order.
+        udp: Fast, connectionless protocol. No guarantee of delivery; used for live streaming and gaming.
+        smtp: Protocol used for sending emails between mail servers.
+        ftp: Used for uploading and downloading files over a network.
+        ip: Responsible for assigning addresses and routing data from one device to another on the internet.
+
+
+Operating Smart AC at home :
+Any Device connted with the Internet has their own IP Address.
+
+
+        >> Client/Web Page--------(uName & uPwd)---------> Instagram Server
+        Https is used to protect our passwords.
+        >> SSL Certifications
+
+
+B] Server/Domain Name:
+    >> Unique Identifier, there are no 2 googles websites or amazon.
+        >> Eg: Google
+
+C] Sub-Domain Name:
+    >> Path within the main Domain.
+    >> Gmaps
+    >> Gmeets
+
+D] TLD ( Top Level Domain )
+    amazon.in
+    amazon.com
+    amazon.uk
